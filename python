@@ -1,0 +1,3 @@
+name="janhavi"
+rollno=24
+print('my name is',name,'rollno is',rollno)
